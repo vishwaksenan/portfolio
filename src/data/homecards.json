@@ -1,0 +1,246 @@
+{
+	"data": [
+		{
+			"title": "Projects",
+			"value": [
+				{
+					"id": 1,
+					"title": "Visual Tire Inspection",
+					"description": "This is a computer vision application to detect defects in tyres. Build using OpenCV, Django and Deployed using AWS EBS",
+					"projectRoute": "",
+					"githubUrl": "https://github.com/pranjaljain0/chatbox-frontend",
+					"badgeTitle": ["Computer Vision", "OpenCV", "Django", "AWS EBS"],
+					"initialColor": "#56CCF2",
+					"finalColor": "#2F80ED",
+					"language": "Python"
+				},
+				{
+					"id": 2,
+					"title": "Doctor WHO Card Detection",
+					"description": "A full Machine Learning Project pipeline to detect the Doctor Who card (A BBC Show) in the green background.",
+					"projectRoute": "https://theyellowmushrooms.com",
+					"githubUrl": "https://github.com/pranjaljain0/chatbox-frontend",
+					"badgeTitle": ["OpenCV", "Tensorflow", "ML ETL Pipeline", "Scale Invariant Feature Transforms (SIFT)"],
+					"initialColor": "#373B44",
+					"finalColor": "#4286f4",
+					"language": "Python"
+				},
+				{
+					"id": 3,
+					"title": "Notes Application",
+					"description": "A full stack Node application (MERN) for users to take notes and keep track of the activities",
+					"projectRoute": "",
+					"githubUrl": "https://github.com/pranjaljain0/refactored-waffle",
+					"badgeTitle": ["ReactJS", "Express","Cloud NoSQL DB", "MongoDB", "Nginx", "Docker", "AWS EC2"],
+					"initialColor": "#f12711",
+					"finalColor": "#f5af19",
+					"language": "Typescipt"
+				},
+				{
+					"id": 4,
+					"title": "Text Sentiment Annotator",
+					"projectRoute": "https://dev.zenhotline.com/",
+					"githubUrl": "https://github.com/pranjaljain0/refactored-waffle",
+					"description": "A Web application tool to annotate sentiment of the text from the huge CSV file",
+					"badgeTitle": ["ReactJS", "File Management"],
+					"initialColor": "#11998e",
+					"finalColor": "#38ef7d",
+					"language": "JavaScript"
+				}
+			],
+			"route": "/projects",
+			"initialColor": "#56CCF2",
+			"finalColor": "#2F80ED",
+			"icon": "GiThorHammer"
+		},
+		{
+			"title": "Work Experience",
+			"value": [
+				{
+					"title": "Telescope Analytics",
+					"duration": "Jun 2022 - Jul 2022, 2 Months",
+					"location": "London, UK",
+					"url": "https://gotelescope.ai/",
+					"description": [
+						"Worked as a Machine Learning Engineer.",
+						"Successfully deployed 9 tracking event alert alert from frontend (React) and the backend (Python).",
+						"Worked on Data Prep for the recommendation systems."
+					]
+				},
+				{
+					"title": "Z2i Solutions",
+					"description": [
+						"Worked as a Full Stack developer extensively in the backend systems.",
+						"Successfully created a optimal data base schema (PostgreSQL) for data storage."
+					],
+					"duration": "Aug 2020 - Aug 2021, 1 Year",
+					"location": "Chennai, India",
+					"url": ""
+				},
+				{
+					"title": "Qube Cinema Technologies",
+					"description": [
+						"Product Engineer specialized in QA testing.",
+						"Deployed 33 test cases in Python using selenium and PyTest framework for the moviebuff product."
+					],
+					"duration": "May 2019 - Aug 2019, 4 months",
+					"location": "Chennai, India",
+					"url": "https://www.qubecinema.com/"
+				},
+				{
+					"title": "Edge Technologies",
+					"description": [
+						"Computer Vision Engineer role in the automobile industry.",
+						"Built (OpenCV and Tensorflow) and Deployed (AWS) 2 computer vision models."
+					],
+					"duration": "Dec 2018 - Jan 2019, 2 months",
+					"location": "Remote",
+					"url": ""
+				}
+			],
+			"route": "#",
+			"initialColor": "#e1eec3",
+			"finalColor": "#f05053",
+			"icon": "GoRepo"
+		},
+		{
+			"title": "Education",
+			"value": [
+				{
+					"title": "University of Warwick",
+					"duration": "2021-2022",
+					"location_city": "Coventry",
+					"location_state": "Warwickshire",
+					"location_country": "United Kingdom",
+					"description": "Masters of Scinece",
+					"sec_details": "Data Analytics",
+					"color": "#fef54b",
+					"text": "#1d1d1d"
+				},
+				{
+					"title": "Rajalakshmi Institute of Technology",
+					"duration": "2016-2020",
+					"location_city": "Chennai",
+					"location_state": "Tamil Nadu",
+					"location_country": "India",
+					"description": "Bachelor of Engineering",
+					"sec_details": "Computer Science engineering",
+					"color": "#fef54b",
+					"text": "#1d1d1d"
+				}
+			],
+			"route": "#",
+			"initialColor": "#007991",
+			"finalColor": "#78ffd6",
+			"icon": "GiBookshelf"
+		},
+		{
+			"title": "Coding",
+			"value": [
+				{
+					"title": "Python",
+					"level": "Tensorflow"
+				},
+				{
+					"title": "PyTorch",
+					"level": "JAX"
+				},
+				{
+					"title": "C/C++",
+					"level": "Java"
+				},
+				{
+					"title": "OpenCV",
+					"level": "Scikit-Learn"
+				},
+				{
+					"title": "Docker",
+					"level": "AWS"
+				},
+				{
+					"title": "Android",
+					"level": "Kotlin"
+				},
+				{
+					"title": "HTML",
+					"level": "CSS"
+				},
+				{
+					"title": "JavaScipt",
+					"level": "TypeScript"
+				},
+				{
+					"title": "ReactJS",
+					"level": "Express"
+				},
+				{
+					"title": "MongoDB",
+					"level": "PostgreSQL"
+				}
+			],
+			"route": "/languages",
+			"initialColor": "#373B44",
+			"finalColor": "#4286f4",
+			"icon": "DiJavascript1"
+		},
+		{
+			"title": "Hobbies & Interest",
+			"value": [
+				{
+					"title": "Solving puzzles",
+					"hobbyIcon": "FaPuzzlePiece"
+				},
+				{
+					"title": "Computing",
+					"hobbyIcon": "MdComputer"
+				},
+				{
+					"title": "Going to the gym",
+					"hobbyIcon": "FaDumbbell"
+				},
+				{
+					"title": "Travelling",
+					"hobbyIcon": "MdCardTravel"
+				},
+				{
+					"title": "Networking",
+					"hobbyIcon": "FaNetworkWired"
+				},
+				{
+					"title": "Playing guitar",
+					"hobbyIcon": "FaGuitar"
+				}
+			],
+			"route": "#",
+			"initialColor": "#f12711",
+			"finalColor": "#f5af19",
+			"icon": "FaGuitar"
+		},
+		
+		{
+			"title": "Contact",
+			"value": [
+				{
+					"title": "instagram",
+					"link": ""
+				},
+				{
+					"title": "linkedin",
+					"link": ""
+				},
+				{
+					"title": "github",
+					"link": ""
+				},
+				{
+					"title": "instagram",
+					"link": ""
+				}
+			],
+			"route": "#",
+			"initialColor": "#11998e",
+			"finalColor": "#38ef7d",
+			"icon": "TiSocialAtCircular"
+		}
+	]
+}
