@@ -27,7 +27,7 @@
 				},
 				{
 					"id": 3,
-					"title": "Notes Application",
+					"title": "Notes Applicationaaaa",
 					"description": "A full stack Node application (MERN) for users to take notes and keep track of the activities",
 					"projectRoute": "http://ec2-13-40-169-202.eu-west-2.compute.amazonaws.com/",
 					"githubUrl": "https://github.com/vishwaksenan/notes-webapp",
