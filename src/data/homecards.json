@@ -7,7 +7,6 @@
 					"id": 1,
 					"title": "Visual Tire Inspection",
 					"description": "This is a computer vision application to detect defects in tyres. Build using OpenCV, Django and Deployed using AWS EBS",
-					"projectRoute": "",
 					"githubUrl": "https://github.com/vishwaksenan/visual_tire_inspection",
 					"badgeTitle": ["Computer Vision", "OpenCV", "Django", "AWS EBS"],
 					"initialColor": "#56CCF2",
@@ -18,7 +17,6 @@
 					"id": 2,
 					"title": "Battle of Time Card Detection",
 					"description": "A full Machine Learning Project pipeline to detect the Doctor Who card (A BBC Show) in the green background.",
-					"projectRoute": "",
 					"githubUrl": "https://github.com/vishwaksenan/Battle_of_Time_Card_Detection",
 					"badgeTitle": ["OpenCV", "Tensorflow", "ML ETL Pipeline", "Scale Invariant Feature Transforms (SIFT)"],
 					"initialColor": "#373B44",
@@ -39,7 +37,6 @@
 				{
 					"id": 4,
 					"title": "Text Sentiment Annotator",
-					"projectRoute": "",
 					"githubUrl": "https://github.com/vishwaksenan/text-sentiment-annotator",
 					"description": "A Web application tool to annotate sentiment of the text from the huge CSV file",
 					"badgeTitle": ["ReactJS", "AWS Amplify", "File Management"],
