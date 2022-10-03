@@ -54,6 +54,17 @@
 			"title": "Work Experience",
 			"value": [
 				{
+					"title": "Beakbook",
+					"duration": "Sept 2022 - Present",
+					"location": "London, UK",
+					"url": "https://www.beakbook.com/",
+					"description": [
+						"Worked as a Backend Engineer.",
+						"Successfully deployed IoT (Internet of Things) AWS workspace to deploy the company's proprietery algorithm using Terraform, AWS Lambda function",
+						"Helped hands on to deploy the weighing scale in the farms and the infrastructure can handle 3000 request at once."
+					]
+				},
+				{
 					"title": "Telescope Analytics",
 					"duration": "Jun 2022 - Jul 2022, 2 Months",
 					"location": "London, UK",
