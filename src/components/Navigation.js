@@ -36,7 +36,7 @@ function Navigation() {
 							</Button>
 							<Button
 								variant='light'
-								href='https://github.com/vishwaksenan/my_interest/raw/master/Vishwak%20Resume.pdf'
+								href='https://github.com/vishwaksenan/my_interest/raw/master/Vishwak_Resume.pdf'
 								style={{
 									borderRadius: '0 4px 4px 0',
 								}}
@@ -46,7 +46,7 @@ function Navigation() {
 									fill='rgba(0,0,0,0.5)'
 									onClick={() =>
 										(window.location =
-											'https://github.com/vishwaksenan/my_interest/raw/master/Vishwak%20Resume.pdf')
+											'https://github.com/vishwaksenan/my_interest/raw/master/Vishwak_Resume.pdf')
 									}
 								/>
 							</Button>
