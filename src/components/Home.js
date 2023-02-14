@@ -25,7 +25,7 @@ export default function Home() {
 						<Row className='RightSec'>
 							<Row className='RightUpperSec'>
 								<Col className='RightUpperSecContent'>
-									<h2>About Me</h2>
+									<h2>About Me Fuck OFF</h2>
 									<HomeAbout />
 								</Col>
 							</Row>
