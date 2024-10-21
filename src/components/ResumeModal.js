@@ -14,7 +14,7 @@ function ResumeModal({showResumeModal, closeModal}) {
 			<Modal.Body>
 				<iframe
 					title='Resume'
-					src="https://drive.google.com/file/d/1hSB8kHJiXhlSkkWwf6PG94MrdcwhJQVo/preview"
+					src="https://drive.google.com/file/d/1C1d_9zzaGTekr2F452Fg4w5Iadug2YGR/preview"
 					width='100%'
 					height='700px'
 					frameBorder='0'></iframe>

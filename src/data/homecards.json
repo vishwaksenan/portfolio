@@ -5,8 +5,18 @@
 			"value": [
 				{
 					"id": 1,
+					"title": "Terraform IOT/ML Infrastructure",
+					"description": "High level goal is to run a seperate lambda function for dev and prod in different regions using terraform workspace separation.",
+					"githubUrl": "https://github.com/vishwaksenan/terraform-workspace-seperation",
+					"badgeTitle": ["Terraform Cloud", "AWS", "Python"],
+					"initialColor": "#AF5EFF",
+					"finalColor": "#DFBFFF",
+					"language": "HCL"
+				},
+				{
+					"id": 2,
 					"title": "Visual Tire Inspection",
-					"description": "This is a computer vision application to detect defects in tyres. Build using OpenCV, Django and Deployed using AWS EBS",
+					"description": "This is a computer vision application to detect defects in tyres. Build using OpenCV, Django and Deployed using AWS EBS.",
 					"githubUrl": "https://github.com/vishwaksenan/visual_tire_inspection",
 					"badgeTitle": ["Computer Vision", "OpenCV", "Django", "AWS EBS"],
 					"initialColor": "#56CCF2",
@@ -14,9 +24,9 @@
 					"language": "Python"
 				},
 				{
-					"id": 2,
+					"id": 3,
 					"title": "Battle of Time Card Detection",
-					"description": "A full Machine Learning Project pipeline to detect the Doctor Who card (A BBC Show) in the green background.",
+					"description": "A Machine Learning pipeline to detect the Doctor Who card (A BBC Show) in a green background video file.",
 					"githubUrl": "https://github.com/vishwaksenan/Battle_of_Time_Card_Detection",
 					"badgeTitle": ["OpenCV", "Tensorflow", "ML ETL Pipeline", "Scale Invariant Feature Transforms (SIFT)"],
 					"initialColor": "#373B44",
@@ -24,9 +34,9 @@
 					"language": "Python"
 				},
 				{
-					"id": 3,
+					"id": 4,
 					"title": "Notes Application",
-					"description": "A full stack Node application (MERN) for users to take notes and keep track of the activities",
+					"description": "A full stack Node application (MERN) for users to take notes and keep track of the activities.",
 					"projectRoute": "http://ec2-13-40-169-202.eu-west-2.compute.amazonaws.com/",
 					"githubUrl": "https://github.com/vishwaksenan/notes-webapp",
 					"badgeTitle": ["ReactJS", "Express","Cloud NoSQL DB", "MongoDB", "Nginx", "Docker", "AWS EC2"],
@@ -35,14 +45,24 @@
 					"language": "Typescipt"
 				},
 				{
-					"id": 4,
+					"id": 5,
 					"title": "Text Sentiment Annotator",
 					"githubUrl": "https://github.com/vishwaksenan/text-sentiment-annotator",
-					"description": "A Web application tool to annotate sentiment of the text from the huge CSV file",
+					"description": "A Web application tool to annotate sentiment of the text from the huge CSV file.",
 					"badgeTitle": ["ReactJS", "AWS Amplify", "File Management"],
 					"initialColor": "#11998e",
 					"finalColor": "#38ef7d",
 					"language": "JavaScript"
+				},
+				{
+					"id": 6,
+					"title": "Computational Fluid Dynamic Application",
+					"description": "Computation Fluid Dynamics mini application (karman) which is made faster using Message Passing Interfacing (MPI) in C++.",
+					"githubUrl": "https://github.com/vishwaksenan/cfd_multiprocessing",
+					"badgeTitle": ["C++", "MPI", "Multi-processing", "Multi-threading", "Shared-memory"],
+					"initialColor": "#333333",
+					"finalColor": "#797979",
+					"language": "C++"
 				}
 			],
 			"route": "/projects",
@@ -54,8 +74,20 @@
 			"title": "Work Experience",
 			"value": [
 				{
+					"title": "Lloyds Banking Group",
+					"duration": "Sept 2023 - Present",
+					"location": "London, UK",
+					"url": "https://www.lloydsbank.com/",
+					"description": [
+						"Worked as a Platform Engineer in Machine Learning Platform Lab within the Bank.",
+						"Successfully resolved a critical vulnerability in the platform within a day within 24 hour for platform to be 100% FCA complaint by updating user's access level and implement new security groups.",
+						"Designed and developed the CI/CD systems using GCP Cloud Build and Jenkins which can scale up to 3000 deployments concurrently with complete security scanning (truffle-hog and aqua scan).",
+						"Successfully led a project with a team of 3 members by upgrading (adding MS Team's Channel web-hook) the monitoring/alerting infrastructure in GCP and completed the project 40% ahead of deadline."
+					]
+				},
+				{
 					"title": "Beakbook",
-					"duration": "Sept 2022 - Present",
+					"duration": "Sept 2022 - Sept 2023, 1 Year 1 month",
 					"location": "London, UK",
 					"url": "https://www.beakbook.com/",
 					"description": [
@@ -213,10 +245,6 @@
 				{
 					"title": "Networking",
 					"hobbyIcon": "FaNetworkWired"
-				},
-				{
-					"title": "Playing guitar",
-					"hobbyIcon": "FaGuitar"
 				}
 			],
 			"route": "#",

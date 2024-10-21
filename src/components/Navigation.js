@@ -36,7 +36,8 @@ function Navigation() {
 							</Button>
 							<Button
 								variant='light'
-								href='https://github.com/vishwaksenan/my_interest/raw/master/Vishwak_Resume.pdf'
+								// href='https://github.com/vishwaksenan/my_interest/raw/master/Vishwak_resume.pdf'
+								href='https://drive.google.com/file/d/1C1d_9zzaGTekr2F452Fg4w5Iadug2YGR/view?usp=sharing'
 								style={{
 									borderRadius: '0 4px 4px 0',
 								}}
@@ -46,7 +47,7 @@ function Navigation() {
 									fill='rgba(0,0,0,0.5)'
 									onClick={() =>
 										(window.location =
-											'https://github.com/vishwaksenan/my_interest/raw/master/Vishwak_Resume.pdf')
+											'https://drive.google.com/file/d/1C1d_9zzaGTekr2F452Fg4w5Iadug2YGR/view?usp=sharing')
 									}
 								/>
 							</Button>
